@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # importing the dataset
-dataset=pd.read_csv('Rugs_review_file.tsv',delimiter='\t',quoting=3)
+dataset=pd.read_csv('',delimiter='\t',quoting=3)
 
 # cleaning the dataset
 import re
